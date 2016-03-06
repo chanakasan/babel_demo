@@ -8,6 +8,4 @@ class Person {
   }
 }
 
-let person = new Person("Chanaka");
-console.log(person.greet());
-
+export default Person;
